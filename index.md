@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nicccc5/Shawn-Mendes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Shawn
 
 1. Numbered
 2. List
