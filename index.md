@@ -1,8 +1,6 @@
-﻿## Welcome to GitHub Pages
+﻿## About Shawn Mendes
 
-You can use the [editor on GitHub](https://github.com/nicccc5/Shawn-Mendes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ Shawn Mendes is a Canadian singer, songwriter and model.He gained a following in 2013, posting song covers on the video-sharing application [Vine](https://vine.co/) .
 
 ### Markdown
 
