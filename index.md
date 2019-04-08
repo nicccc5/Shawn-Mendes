@@ -1,6 +1,10 @@
 ﻿<script>
   $(document).ready(function() {
     
+  	$("button").click(function(){
+  $("img").fadeOut();
+});
+
   });
 </script>
 
@@ -8,7 +12,7 @@
   <div class="row">
     <div class="col-xs-6">
       <div class="well" id="left-well">
-        <button class="btn btn-default target" id="target1">#target1</button>
+        <button class="btn btn-default target" id="target1">disapper</button>
       </div>
     </div>    
   </div>
